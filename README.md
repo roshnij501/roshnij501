@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @roshnij501
 - 👀 I’m interested in bi analysis
 - 🌱 I’m currently learning power bi
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..roshnij501@gmail.com
 
 <!---
